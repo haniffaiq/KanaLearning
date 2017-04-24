@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/hanif/.android/build-cache/c054ed301669fa3b7a1a10024d8a1c1a95768ad8/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/hanif/.android/build-cache/c054ed301669fa3b7a1a10024d8a1c1a95768ad8/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color/abc_tint_default.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/hanif/.android/build-cache/c054ed301669fa3b7a1a10024d8a1c1a95768ad8/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/hanif/.android/build-cache/c054ed301669fa3b7a1a10024d8a1c1a95768ad8/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/hanif/.android/build-cache/c054ed301669fa3b7a1a10024d8a1c1a95768ad8/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/hanif/.android/build-cache/c054ed301669fa3b7a1a10024d8a1c1a95768ad8/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

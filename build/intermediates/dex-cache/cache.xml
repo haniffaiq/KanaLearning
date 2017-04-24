@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36f060cf61fdaf8f9dfff323c1e4f4d81bd8a7fe">
+        <dex dex="/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_70c0b6933b79d4f5b61789192b592b9f70169710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2396513c3bb8161e95d179959ae4e7be4d82f73d/classes.dex" />
+    </item>
+
+</items>

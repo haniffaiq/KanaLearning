@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:25.3.1] /home/hanif/.android/build-cache/c054ed301669fa3b7a1a10024d8a1c1a95768ad8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/hanif/.android/build-cache/e58cca447d8e182cfbc11dc260d03383e74601c3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/hanif/.android/build-cache/2164ff175323ec4017289367711b7b351589f462/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/hanif/.android/build-cache/b917029a4ba832309a57a20cf1045c3cdb07c0e0/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/hanif/.android/build-cache/b6c3e648aec544c092a9afc395acf4e22d66fe2c/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/hanif/.android/build-cache/820690ec4ca74050c539e19b6fbb5148cf3a1940/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/hanif/.android/build-cache/37f014f9429c4c047cc2467bfff7a8272e080565/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/hanif/.android/build-cache/c815e10859c9bd5611601a4dac111c1d6347f3aa/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/hanif/.android/build-cache/fd7973a8b5b17218ae41fbf1d4808ae7b45ce2ce/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/hanif/.android/build-cache/bea8bf9a3588306946640439b12bd6dcd1da0df2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/hanif/.android/build-cache/2f296b712b45f5aded3cc8c338bd3a71e9156c3c/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.hanif.kanalarning.MainActivity
+ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /home/hanif/.android/build-cache/c054ed301669fa3b7a1a10024d8a1c1a95768ad8/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/hanif/.android/build-cache/e58cca447d8e182cfbc11dc260d03383e74601c3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/hanif/.android/build-cache/2164ff175323ec4017289367711b7b351589f462/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/hanif/.android/build-cache/a1feb30424bb70657d0034ca85339abab9c9f067/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/hanif/.android/build-cache/b917029a4ba832309a57a20cf1045c3cdb07c0e0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/hanif/.android/build-cache/b6c3e648aec544c092a9afc395acf4e22d66fe2c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.3.1] /home/hanif/.android/build-cache/820690ec4ca74050c539e19b6fbb5148cf3a1940/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/hanif/.android/build-cache/37f014f9429c4c047cc2467bfff7a8272e080565/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/hanif/.android/build-cache/c815e10859c9bd5611601a4dac111c1d6347f3aa/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/hanif/.android/build-cache/fd7973a8b5b17218ae41fbf1d4808ae7b45ce2ce/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/hanif/.android/build-cache/bea8bf9a3588306946640439b12bd6dcd1da0df2/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/hanif/.android/build-cache/2f296b712b45f5aded3cc8c338bd3a71e9156c3c/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/hanif/.android/build-cache/c054ed301669fa3b7a1a10024d8a1c1a95768ad8/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hanif/AndroidStudioProjects/KanaLarning/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/hanif/.android/build-cache/c054ed301669fa3b7a1a10024d8a1c1a95768ad8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/hanif/.android/build-cache/e58cca447d8e182cfbc11dc260d03383e74601c3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/hanif/.android/build-cache/2164ff175323ec4017289367711b7b351589f462/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/hanif/.android/build-cache/a1feb30424bb70657d0034ca85339abab9c9f067/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/hanif/.android/build-cache/b917029a4ba832309a57a20cf1045c3cdb07c0e0/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/hanif/.android/build-cache/820690ec4ca74050c539e19b6fbb5148cf3a1940/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/hanif/.android/build-cache/37f014f9429c4c047cc2467bfff7a8272e080565/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/hanif/.android/build-cache/c815e10859c9bd5611601a4dac111c1d6347f3aa/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/hanif/.android/build-cache/fd7973a8b5b17218ae41fbf1d4808ae7b45ce2ce/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/hanif/.android/build-cache/bea8bf9a3588306946640439b12bd6dcd1da0df2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/hanif/.android/build-cache/2f296b712b45f5aded3cc8c338bd3a71e9156c3c/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/hanif/.android/build-cache/c054ed301669fa3b7a1a10024d8a1c1a95768ad8/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/hanif/.android/build-cache/c054ed301669fa3b7a1a10024d8a1c1a95768ad8/output/AndroidManifest.xml:26:9-47

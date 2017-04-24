@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/hiragana"
+            android:title="Hiragana"
+            android:checked="false"></item>
+        <item android:id="@+id/katakana"
+            android:title="Katakana"
+            android:checked="false"></item>
+    </group>
+</menu>

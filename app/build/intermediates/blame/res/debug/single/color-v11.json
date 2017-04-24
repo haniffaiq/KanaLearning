@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/hanif/AndroidStudioProjects/KanaLarning/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/hanif/.android/build-cache/f547d624552ca76d8c461c6315243cbf27e6a33c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
